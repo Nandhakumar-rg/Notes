@@ -23,4 +23,3 @@ public class ExampleInstrumentedTest {
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
         assertEquals("com.rushiranade.notes", appContext.getPackageName());
     }
-}
